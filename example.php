@@ -7,8 +7,7 @@
  * using google chart api http://chart.apis.google.com
  * Here are sources with free QR code reading software for mobile phones:
  
- * For more information, examples and online documentation visit: 
- * http://webcodingeasy.com/PHP-classes/QR-code-generator-class
+
  **************************************************************/
 
 include("qrcode.php");
